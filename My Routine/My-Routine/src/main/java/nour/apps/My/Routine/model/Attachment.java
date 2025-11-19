@@ -1,4 +1,12 @@
 package nour.apps.My.Routine.model;
 
-public class Attachment {
+import java.util.UUID;
+
+public class Attachment extends Lov{
+
+
+    String path;
+
+
+
 }

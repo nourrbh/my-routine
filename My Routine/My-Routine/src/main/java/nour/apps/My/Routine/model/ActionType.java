@@ -1,4 +1,4 @@
 package nour.apps.My.Routine.model;
 
-public class ActionType {
+public class ActionType extends Lov {
 }

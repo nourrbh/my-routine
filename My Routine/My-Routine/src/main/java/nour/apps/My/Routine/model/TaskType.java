@@ -1,4 +1,4 @@
 package nour.apps.My.Routine.model;
 
-public class TaskType {
+public class TaskType  extends  Lov {
 }

@@ -1,4 +1,8 @@
 package nour.apps.My.Routine.model;
 
-public class GoalType {
+import java.util.UUID;
+
+public class GoalType extends Lov {
+
+    String Description;
 }

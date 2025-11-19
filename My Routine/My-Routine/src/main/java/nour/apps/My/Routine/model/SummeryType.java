@@ -1,4 +1,4 @@
 package nour.apps.My.Routine.model;
 
-public class SummeryType {
+public class SummeryType extends  Lov{
 }

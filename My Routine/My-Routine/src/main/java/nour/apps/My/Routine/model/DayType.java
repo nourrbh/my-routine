@@ -1,4 +1,11 @@
 package nour.apps.My.Routine.model;
 
-public class DayType {
+public enum DayType {
+
+
+    WORKDAY,
+    Friday,
+    Saturday,
+    Leave
+
 }

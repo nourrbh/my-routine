@@ -1,4 +1,10 @@
 package nour.apps.My.Routine.model;
 
-public class Appointment {
+import java.time.LocalDateTime;
+
+public class Appointment extends Lov{
+
+    LocalDateTime date;
+
+    String description;
 }
