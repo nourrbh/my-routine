@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>nour.apps</groupId>
-	<artifactId>My-Routine</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<name>My-Routine</name>
+	<artifactId>my-Routine</artifactId>
+	<version>1.0.0</version>
+	<name>my-Routine</name>
 	<description>Simple Daily task manager ,reporter  tool </description>
 	<url/>
 	<licenses>
