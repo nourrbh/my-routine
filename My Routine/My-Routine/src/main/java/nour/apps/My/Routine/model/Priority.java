@@ -1,14 +1,12 @@
 package nour.apps.My.Routine.model;
 
-import java.util.UUID;
 
-public class Priority {
+public class Priority extends Lov{
 
-    UUID id;
 
     Integer priority;
 
-    DateRange Range;
+    ValueRange Range;
 
     Boolean isChangeable;
 }

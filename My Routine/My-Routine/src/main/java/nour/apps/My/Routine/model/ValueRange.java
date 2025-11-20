@@ -7,6 +7,4 @@ public class ValueRange extends Lov {
 
     int to;
 
-
-
 }

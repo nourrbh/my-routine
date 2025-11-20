@@ -1,4 +1,7 @@
 package nour.apps.My.Routine.model;
 
-public class TaskType  extends  Lov {
+public enum TaskType{
+
+
+    family, health, work, selfCare,friends
 }

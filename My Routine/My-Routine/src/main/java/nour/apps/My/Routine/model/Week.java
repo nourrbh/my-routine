@@ -1,7 +1,18 @@
 package nour.apps.My.Routine.model;
 
-public class Week  {
+import java.util.List;
+import java.util.UUID;
+
+public class Week {
 
 
+    List<DailySchedule> days;
 
+    UUID id;
+
+    DateRange dateRange;
+
+    Plane plane;
+
+    Summery summery;
 }

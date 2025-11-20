@@ -1,9 +1,9 @@
 package nour.apps.My.Routine.model;
 
-public class Restriction extends Lov {
+public abstract class Event extends Lov {
 
     String description;
 
-    Action action;
+    double hours;
 
 }

@@ -6,6 +6,8 @@ public enum DayType {
     WORKDAY,
     Friday,
     Saturday,
-    Leave
+    Leave,
+    vecation,
+    sickLeave
 
 }

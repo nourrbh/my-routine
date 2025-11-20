@@ -1,4 +1,6 @@
 package nour.apps.My.Routine.model;
 
-public class SummeryType extends  Lov{
+public enum SummeryType{
+
+    daily, weekly, monthly ,quarterly,yearly
 }
