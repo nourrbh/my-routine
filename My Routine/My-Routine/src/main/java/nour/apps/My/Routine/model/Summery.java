@@ -14,6 +14,6 @@ public class Summery {
 
     String summeryParagraph;
 
-    Plane plane;
+    Plan plane;
 
 }

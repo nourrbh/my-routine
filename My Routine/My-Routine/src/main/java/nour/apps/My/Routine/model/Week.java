@@ -12,7 +12,7 @@ public class Week {
 
     DateRange dateRange;
 
-    Plane plane;
+    Plan plane;
 
     Summery summery;
 }

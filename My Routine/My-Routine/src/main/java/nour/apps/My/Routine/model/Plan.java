@@ -1,11 +1,10 @@
 package nour.apps.My.Routine.model;
 
 import java.util.List;
-import java.util.UUID;
 
-public class Plane extends Lov{
+public class Plan extends Lov{
 
-    PlaneType planeType;
+    PlanType planType;
 
     DateRange dateRange;
 
